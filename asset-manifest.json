@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/umarbasha007/reactjs-portfolio-blog/static/css/main.7d9b4d34.chunk.css",
+    "main.js": "/umarbasha007/reactjs-portfolio-blog/static/js/main.79a76561.chunk.js",
+    "main.js.map": "/umarbasha007/reactjs-portfolio-blog/static/js/main.79a76561.chunk.js.map",
+    "runtime-main.js": "/umarbasha007/reactjs-portfolio-blog/static/js/runtime-main.4cad1a2e.js",
+    "runtime-main.js.map": "/umarbasha007/reactjs-portfolio-blog/static/js/runtime-main.4cad1a2e.js.map",
+    "static/js/2.a1c851fb.chunk.js": "/umarbasha007/reactjs-portfolio-blog/static/js/2.a1c851fb.chunk.js",
+    "static/js/2.a1c851fb.chunk.js.map": "/umarbasha007/reactjs-portfolio-blog/static/js/2.a1c851fb.chunk.js.map",
+    "static/js/3.6bab90a6.chunk.js": "/umarbasha007/reactjs-portfolio-blog/static/js/3.6bab90a6.chunk.js",
+    "static/js/3.6bab90a6.chunk.js.map": "/umarbasha007/reactjs-portfolio-blog/static/js/3.6bab90a6.chunk.js.map",
+    "index.html": "/umarbasha007/reactjs-portfolio-blog/index.html",
+    "static/css/main.7d9b4d34.chunk.css.map": "/umarbasha007/reactjs-portfolio-blog/static/css/main.7d9b4d34.chunk.css.map",
+    "static/js/2.a1c851fb.chunk.js.LICENSE.txt": "/umarbasha007/reactjs-portfolio-blog/static/js/2.a1c851fb.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/umarbasha007/reactjs-portfolio-blog/static/media/logo.6ce24c58.svg",
+    "static/media/umarImage.f2f6ba90.jfif": "/umarbasha007/reactjs-portfolio-blog/static/media/umarImage.f2f6ba90.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4cad1a2e.js",
+    "static/js/2.a1c851fb.chunk.js",
+    "static/css/main.7d9b4d34.chunk.css",
+    "static/js/main.79a76561.chunk.js"
+  ]
+}
